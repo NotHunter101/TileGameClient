@@ -1,0 +1,144 @@
+[
+	{
+		"name": "Dirt Block",
+		"type": "block",
+		"path": "./assets/items/tiles/dirt.png",
+		"stackable": true,
+		"block_id": 1
+	},
+	{
+		"name": "Sand Block",
+		"type": "block",
+		"path": "./assets/items/tiles/sand.png",
+		"stackable": true,
+		"block_id": 5
+	},
+	{
+		"name": "Snow Block",
+		"type": "block",
+		"path": "./assets/items/tiles/snow.png",
+		"stackable": true,
+		"block_id": 3
+	},
+	{
+		"name": "Stone Block",
+		"type": "block",
+		"path": "./assets/items/tiles/stone.png",
+		"stackable": true,
+		"block_id": 7
+	},
+	{
+		"name": "Wood Pickaxe",
+		"type": "pickaxe",
+		"path": "./assets/items/pickaxe/w_pickaxe.png",
+		"stackable": false,
+		"power": 1
+	},
+	{
+		"name": "Stone Pickaxe",
+		"type": "pickaxe",
+		"path": "./assets/items/pickaxe/s_pickaxe.png",
+		"stackable": false,
+		"power": 1.25
+	},
+	{
+		"name": "Iron Pickaxe",
+		"type": "pickaxe",
+		"path": "./assets/items/pickaxe/i_pickaxe.png",
+		"stackable": false,
+		"power": 2
+	},
+	{
+		"name": "Gold Pickaxe",
+		"type": "pickaxe",
+		"path": "./assets/items/pickaxe/g_pickaxe.png",
+		"stackable": false,
+		"power": 2.5
+	},
+	{
+		"name": "Platinum Pickaxe",
+		"type": "pickaxe",
+		"path": "./assets/items/pickaxe/p_pickaxe.png",
+		"stackable": false,
+		"power": 2.75
+	},
+	{
+		"name": "Titanium Pickaxe",
+		"type": "pickaxe",
+		"path": "./assets/items/pickaxe/t_pickaxe.png",
+		"stackable": false,
+		"power": 3.5
+	},
+	{
+		"name": "Wood Axe",
+		"type": "axe",
+		"path": "./assets/items/axe/w_axe.png",
+		"stackable": false,
+		"power": 1
+	},
+	{
+		"name": "Stone Axe",
+		"type": "axe",
+		"path": "./assets/items/axe/s_axe.png",
+		"stackable": false,
+		"power": 1.25
+	},
+	{
+		"name": "Iron Axe",
+		"type": "axe",
+		"path": "./assets/items/axe/i_axe.png",
+		"stackable": false,
+		"power": 2
+	},
+	{
+		"name": "Gold Axe",
+		"type": "axe",
+		"path": "./assets/items/axe/g_axe.png",
+		"stackable": false,
+		"power": 2.5
+	},
+	{
+		"name": "Platinum Axe",
+		"type": "axe",
+		"path": "./assets/items/axe/t_axe.png",
+		"stackable": false,
+		"power": 2.75
+	},
+	{
+		"name": "Titanium Axe",
+		"type": "axe",
+		"path": "./assets/items/axe/t_axe.png",
+		"stackable": false,
+		"power": 3.5
+	},
+	{
+		"name": "Coal",
+		"type": "generic",
+		"path": "./assets/items/ingot/c_ingot.png",
+		"stackable": true
+	},
+	{
+		"name": "Gold",
+		"type": "generic",
+		"path": "./assets/items/ingot/g_ingot.png",
+		"stackable": true
+	},
+	{
+		"name": "Iron",
+		"type": "generic",
+		"path": "./assets/items/ingot/i_ingot.png",
+		"stackable": true
+	},
+	{
+		"name": "Platinum",
+		"type": "generic",
+		"path": "./assets/items/ingot/p_ingot.png",
+		"stackable": true
+	},
+	{
+		"name": "Titanium",
+		"type": "generic",
+		"path": "./assets/items/ingot/t_ingot.png",
+		"stackable": true
+	}
+]
